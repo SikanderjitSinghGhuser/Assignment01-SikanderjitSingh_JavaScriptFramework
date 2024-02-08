@@ -1,0 +1,2 @@
+
+This is a sample paragraph to demonstrate reading file contents using Node.js. It showcases how to use Node's built-in asynchronous file reading capabilities. By doing so, we can read files without blocking the main thread, allowing Node.js applications to handle other tasks concurrently. This approach is crucial for developing efficient and scalable applications in Node.js.
